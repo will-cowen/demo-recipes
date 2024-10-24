@@ -5,5 +5,6 @@
 * Cilantro
 * Lime
 * Tomato
+* cumin
 
 ## Directions
