@@ -9,4 +9,6 @@
 * jalapenos
 
 ## Directions
+* peel the avocado
 * put the avocado in a bowl
+* add other ingredients
