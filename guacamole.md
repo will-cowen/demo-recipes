@@ -8,3 +8,4 @@
 * cumin
 
 ## Directions
+* put the avocado in a bowl
