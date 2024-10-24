@@ -10,3 +10,4 @@
 
 ## Directions
 * put the avocado in a bowl
+* eat with nacho chips
