@@ -6,6 +6,7 @@
 * Lime
 * Tomato
 * cumin
+* jalapenos
 
 ## Directions
 * put the avocado in a bowl
