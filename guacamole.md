@@ -2,8 +2,9 @@
 avocado
 lime
 cilantro
+pico de gallo
 
 # Instructions
 Peel the avocado
 Put everything in a bowl
-Mash it up
+Mix it up
