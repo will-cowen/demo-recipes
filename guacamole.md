@@ -8,3 +8,6 @@
 1. Peel the avocado
 2. Put everything in a bowl
 3. Mix it up
+
+# Serving suggestions
+Add tortilla chips for a fun time
