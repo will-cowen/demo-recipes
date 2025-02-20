@@ -16,3 +16,4 @@ Add tortilla chips for a fun time
 
 Add to cheese puffs for a disgusting snack
 
+Eat with a spoon
