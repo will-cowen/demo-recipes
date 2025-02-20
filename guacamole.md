@@ -1,10 +1,10 @@
 # Ingredients
-avocado
-lime
-cilantro
-pico de gallo
+- avocado
+- lime
+- cilantro
+- pico de gallo
 
 # Instructions
-Peel the avocado
-Put everything in a bowl
-Mix it up
+1. Peel the avocado
+2. Put everything in a bowl
+3. Mix it up
