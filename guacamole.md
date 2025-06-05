@@ -3,6 +3,7 @@
 * avocado
 * lime
 * salt
+* red pepper flakes
 ## Instructions
 Put the stuff in a bowl
 Mix it
