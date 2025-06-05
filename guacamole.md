@@ -4,6 +4,7 @@
 * lime
 * salt
 * jalapenos
+* tomato
 ## Instructions
 Skin the avocado and remove the pit
 Put the stuff in a bowl
